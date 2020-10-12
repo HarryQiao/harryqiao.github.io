@@ -10,7 +10,10 @@ There are countless good and bad designs in the world. Lately, I discovered an i
 
 # Good Design
 
-![WeChat](/assets/img/wechat.png)
+![WeChat1](/assets/img/IMG_6043.PNG)
+![WeChat2](/assets/img/IMG_6044.PNG)
+![WeChat3](/assets/img/IMG_6045.PNG)
+![WeChat4](/assets/img/IMG_6046.PNG)
 
 This is the logo of WeChat
 
@@ -18,7 +21,10 @@ WeChat is my example of good design. It is the main social network used in China
 
 # Bad Design
 
-![WeCom](/assets/img/wecom.png)
+![WeCom](/assets/img/IMG_6047.PNG)
+![WeCom](/assets/img/IMG_6048.PNG)
+![WeCom](/assets/img/IMG_6049.PNG)
+![WeCom](/assets/img/IMG_6050.PNG)
 
 This is the logo of WeCom
 
