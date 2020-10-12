@@ -10,7 +10,7 @@ There are countless good and bad designs in the world. Lately, I discovered an i
 
 # Good Design
 
-![WeChat1](/assets/img/IMG_6043.PNG = 500x)
+![WeChat1](/assets/img/IMG_6043.PNG = 250x)
 ![WeChat2](/assets/img/IMG_6044.PNG)
 ![WeChat3](/assets/img/IMG_6045.PNG)
 ![WeChat4](/assets/img/IMG_6046.PNG)
